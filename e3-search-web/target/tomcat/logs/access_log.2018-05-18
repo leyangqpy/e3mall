@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [18/May/2018:16:38:30 +0800] "GET /search.html?keyword=%E6%89%8B%E6%9C%BA HTTP/1.1" 200 18817 http-bio-9095-exec-1 3762
+0:0:0:0:0:0:0:1 - - [18/May/2018:16:38:31 +0800] "GET /css/common.css?v=20160713 HTTP/1.1" 200 17458 http-bio-9095-exec-7 931
+0:0:0:0:0:0:0:1 - - [18/May/2018:16:38:33 +0800] "GET /css/all.css?v=20160713 HTTP/1.1" 200 228462 http-bio-9095-exec-9 1104
+0:0:0:0:0:0:0:1 - - [18/May/2018:16:38:33 +0800] "GET /images/error_img.jpg HTTP/1.1" 200 31143 http-bio-9095-exec-8 626
+0:0:0:0:0:0:0:1 - - [18/May/2018:16:38:33 +0800] "GET /images/indexImg20130307.png?v=1.1 HTTP/1.1" 200 55428 http-bio-9095-exec-8 54
